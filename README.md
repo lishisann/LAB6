@@ -28,7 +28,7 @@
 если метод помечен @Invoke → вызвать его через invoke().
 Обработать возможные ошибки вызова.
 ### Тест
-<img width="405" height="97" alt="image" src="https://github.com/user-attachments/assets/d61290b6-05a9-414d-bd65-c1c3444876b0" />
+<img width="265" height="97" alt="image" src="https://github.com/user-attachments/assets/780eb8c5-9226-4b00-9056-a35afe22fcae" />
 
 
 ## Задача 2
